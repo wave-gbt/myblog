@@ -4,12 +4,12 @@ date: 2017-03-24 22:15:27
 tags: php
 ---
 
->当然你可以通过php ,在自己的站点制作一个反馈表单, 我这次的需求是用email 的形式发送数据报表,结构比较简单
+>当然你可以通过php ,在自己的站点制作一个反馈表单.
 <!-- more -->
 
 ```
 // 收件人地址(此处只可以写一个地址,写多个地址,只有最后一个地址生效)
-      $to = 'botao@magicmoma.com';
+      $to = 'xxxx@qq.com';
       // 邮件标题
       $subject = 'botao email';
       // 邮件正文
@@ -19,10 +19,10 @@ tags: php
       $headers .= 'Content-type:text/html;charset=iso-8859-1'."\r\n";
       // 更多报头
       //from 这个地址 是对方可以看到邮件是谁发出的,填写正确邮件地址的话,这个邮件可以回复
-      $headers .= 'From: <botao@magicmoma.com>'."\r\n";
+      $headers .= 'From: <xxxx@qq.com>'."\r\n";
       // 所以,如果要想给多人群发邮件,可以 cc 如下
-      $headers .= 'Cc: junxia@magicmoma.com'."\r\n";
-      $headers .= 'Cc: yifan@magicmoma.com'."\r\n";
+      $headers .= 'Cc: xxx@qq.com'."\r\n";
+      $headers .= 'Cc: xxx@qq.com'."\r\n";
       //调用 mail函数,执行发送
       mail($to, $subject, $message, $headers);
 ```
