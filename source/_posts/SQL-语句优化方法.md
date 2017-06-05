@@ -1,5 +1,6 @@
 ---
 title: SQL 语句优化方法
+permalink: mysql-optimization-method
 date: 2017-03-13 23:26:02
 tags: mysql
 ---

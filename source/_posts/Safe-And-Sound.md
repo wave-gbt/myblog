@@ -1,5 +1,6 @@
 ---
 title: Safe And Sound
+permalink: safe-and-sound
 date: 2017-03-08 22:45:42
 tags: Life-Talk
 ---

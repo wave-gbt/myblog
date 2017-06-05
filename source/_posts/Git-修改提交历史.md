@@ -1,5 +1,6 @@
 ---
 title: Git 修改提交历史
+permalink: git-modify-commit-history
 date: 2017-06-04 13:15:13
 tags: git
 ---

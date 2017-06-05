@@ -1,5 +1,6 @@
 ---
 title: Linux 相关总结
+permalink: linux-summary
 date: 2017-02-06 22:56:07
 tags: linux
 ---

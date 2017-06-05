@@ -1,2 +1,2 @@
-# myblog
-my blog 
+# imbotao.top
+botao's github pages blog

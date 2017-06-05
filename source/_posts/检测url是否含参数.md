@@ -1,5 +1,6 @@
 ---
 title: 检测url是否含参数
+permalink: check-url-has-parameters
 date: 2017-02-08 23:40:40
 tags: php
 ---

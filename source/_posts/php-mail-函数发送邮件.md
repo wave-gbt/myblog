@@ -1,5 +1,6 @@
 ---
 title: php mail 函数发送邮件
+permalink: php-mail-function
 date: 2017-03-24 22:15:27
 tags: php
 ---

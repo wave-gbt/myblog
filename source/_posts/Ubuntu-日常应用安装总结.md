@@ -1,5 +1,6 @@
 ---
 title: Ubuntu 日常应用安装总结
+permalink: ubuntu-install-daily-application
 date: 2017-05-05 16:41:21
 tags: linux
 ---

@@ -1,5 +1,6 @@
 ---
 title: Git 使用过程中的相关总结
+permalink: git-about-use
 date: 2017-02-26 16:10:28
 tags: git
 ---

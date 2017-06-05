@@ -1,5 +1,6 @@
 ---
 title: MySQL 相关总结
+permalink: mysql-summary
 date: 2017-02-01 19:47:35
 tags: mysql
 ---

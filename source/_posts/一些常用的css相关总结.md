@@ -1,5 +1,6 @@
 ---
 title: 一些常用的css相关总结
+permalink: some-css-summary
 date: 2017-02-26 15:47:25
 tags: css
 ---

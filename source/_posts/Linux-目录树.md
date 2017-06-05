@@ -1,5 +1,6 @@
 ---
 title: Linux 目录树
+permalink: linux-directory-tree
 date: 2017-05-06 20:58:33
 tags: linux
 ---
