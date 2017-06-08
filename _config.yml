@@ -13,7 +13,7 @@ avatar: /images/avatar.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://imbotao.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -61,12 +61,24 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+# hexo sitemap网站地图
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
 ## search
 search:
   path: search.xml
   field: post
   format: html
   limit: 10000
+
+# add post views
+leancloud_visitors:
+  enable: true
+  app_id: 8s7QJ2RaIt1YlxSFNHmHEm8m-gzGzoHsz
+  app_key: 1UzaNSaTNi7d3AsPTMYG9YMz
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
