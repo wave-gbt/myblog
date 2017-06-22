@@ -35,4 +35,5 @@ Make the first apple one the 120 x 120.
 If you don’t want to create all these images, you should at least create the larger resolution ones. That way they’ll look good on the hi-res devices.
 
 > Reference:
+> - [zyf.im](https://zyf.im/2017/03/15/add-website-icons-to-the-home-screen/)
 > - [How to Add Icons to iPhone, iPad &amp; Android to Your Website](http://www.kylejlarson.com/blog/adding-an-icon-for-iphone-ipad-android-to-your-website/)

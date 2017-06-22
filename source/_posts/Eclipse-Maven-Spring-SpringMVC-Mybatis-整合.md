@@ -285,5 +285,6 @@ public class InfoDaoTest {
 ```
 
 > Reference:
+> - [zyf.im](https://zyf.im/2016/06/27/eclipse-maven-spring-springmvc-mybatis-example/)
 > - [MKyong-How to install Maven on Ubuntu](http://www.mkyong.com/maven/how-to-install-maven-in-ubuntu/)
 > - [Java之道-使用Eclipse构建Maven项目 (step-by-step)](http://blog.csdn.net/qjyong/article/details/9098213)
