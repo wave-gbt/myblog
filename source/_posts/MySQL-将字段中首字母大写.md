@@ -1,5 +1,5 @@
 ---
-title: MySql 将字段中首字母大写
+title: MySQL 将字段中首字母大写
 permalink: mysql-upcase-first-letter
 date: 2017-06-22 21:47:48
 tags: mysql
