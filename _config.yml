@@ -67,6 +67,7 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
+# baidu-site-verification: <meta name="baidu-site-verification" content="dmSbtBk6Pv" />
 ## search
 search:
   path: search.xml
