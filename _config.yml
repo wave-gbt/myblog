@@ -84,7 +84,7 @@ leancloud_visitors:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: hexo-theme-next
 # duoshuo_shortname: wave-gbt
 # duoshuo_share: true
 # Deployment
