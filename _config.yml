@@ -76,11 +76,23 @@ search:
   format: html
   limit: 10000
 
+algolia:
+  applicationID: 'TBI6JFVCNE'
+  apiKey: '145eaebb3a26faa57c63d57286ce1c74'
+  adminApiKey: 'adminApiKey'
+  indexName: 'qindex'
+  chunkSize: 5000
+  fields:
+    - title
+    - slug
+    - path
+    - content:strip
+
 # add post views
-leancloud_visitors:
-  enable: true
-  app_id: 8s7QJ2RaIt1YlxSFNHmHEm8m-gzGzoHsz
-  app_key: 1UzaNSaTNi7d3AsPTMYG9YMz
+#leancloud_visitors:
+#  enable: true
+#  app_id: 8s7QJ2RaIt1YlxSFNHmHEm8m-gzGzoHsz
+#  app_key: 1UzaNSaTNi7d3AsPTMYG9YMz
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
