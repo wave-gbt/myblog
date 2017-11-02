@@ -97,6 +97,9 @@ algolia:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+
+plugins: hexo-generate-feed
+
 theme: next
 # duoshuo_shortname: wave-gbt
 # duoshuo_share: true

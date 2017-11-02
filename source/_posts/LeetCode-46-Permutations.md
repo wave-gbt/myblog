@@ -3,6 +3,7 @@ title: LeetCode-46. Permutations
 permalink: leetcode-46-permutations
 date: 2017-08-19 20:04:06
 tags: LeetCode
+copyright: true
 ---
 
 Given a collection of distinct numbers, return all possible permutations.

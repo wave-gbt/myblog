@@ -3,6 +3,7 @@ title: LeetCode-49. Group Anagrams
 permalink: leetcode-49-group-anagrams
 date: 2017-08-19 20:04:34
 tags: LeetCode
+copyright: true
 ---
 
 Given an array of strings, group anagrams together.

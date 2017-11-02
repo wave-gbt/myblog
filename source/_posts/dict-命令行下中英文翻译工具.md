@@ -3,6 +3,7 @@ title: dict-命令行下中英文翻译工具
 permalink: dict
 date: 2017-08-21 22:12:48
 tags: [linux,tools]
+copyright: true
 ---
 
 命令行下中英文翻译工具（Chinese and English translation tools in the command line）

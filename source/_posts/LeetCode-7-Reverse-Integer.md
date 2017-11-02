@@ -3,6 +3,7 @@ title: LeetCode-7. Reverse Integer
 permalink: leetcode-7-reverse-integer
 date: 2017-08-24 21:53:40
 tags: LeetCode
+copyright: true
 ---
 
 Reverse digits of an integer.

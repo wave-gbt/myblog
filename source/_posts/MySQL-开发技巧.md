@@ -3,6 +3,7 @@ title: MySQL 开发技巧
 permalink: mysql-dev-skill
 date: 2017-02-03 21:15:40
 tags: mysql
+copyright: true
 ---
 
 >主要涉及：JOIN 、JOIN 更新、GROUP BY HAVING 数据查重/去重

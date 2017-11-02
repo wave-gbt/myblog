@@ -3,6 +3,7 @@ title: MySQL 将字段中首字母大写
 permalink: mysql-upcase-first-letter
 date: 2017-06-22 21:47:48
 tags: mysql
+copyright: true
 ---
 
 　　英文的单纯一般首个字母都是大写的，虽然MySQL中有转换大小写字母的函数，但是那是对整个字段都进行转换，如果需要将字段中首字母大写却没有直接的函数，不过我们可以使用其它的函数将字符串切割，再转换为大写，最后再拼接字符串即可。

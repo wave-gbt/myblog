@@ -3,6 +3,7 @@ title: LeetCode-205. Isomorphic Strings
 permalink: leetcode-205-isomorphic-strings
 date: 2017-09-12 21:33:46
 tags: LeetCode
+copyright: true
 ---
 
 Given two strings s and t, determine if they are isomorphic.

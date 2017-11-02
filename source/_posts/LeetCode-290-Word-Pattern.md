@@ -3,6 +3,7 @@ title: LeetCode-290. Word Pattern
 permalink: leetcode-290-word-pattern
 date: 2017-09-12 21:54:51
 tags: LeetCode
+copyright: true
 ---
 
 Given a pattern and a string str, find if str follows the same pattern.

@@ -3,6 +3,7 @@ title: LeetCode-633. Sum of Square Numbers
 permalink: leetcode-633-sum-of-square-numbers
 date: 2017-09-07 21:10:20
 tags: LeetCode
+copyright: true
 ---
 
 Given a non-negative integer c, your task is to decide whether there're two integers a and b such that a2 + b2 = c. 

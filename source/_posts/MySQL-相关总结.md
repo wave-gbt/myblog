@@ -3,6 +3,7 @@ title: MySQL 相关总结
 permalink: mysql-summary
 date: 2017-02-01 19:47:35
 tags: mysql
+copyright: true
 ---
 > 一些MySQL常用命令相关总结，会不断补充。
 <!-- more -->

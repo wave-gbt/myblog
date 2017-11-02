@@ -3,6 +3,7 @@ title: 手机IMEI失效或者显示null的处理方式
 permalink: reset-imei-code
 date: 2017-07-01 13:56:32
 tags: tools
+copyright: true
 ---
 
 　　刷机有风险，发烧友们需谨慎。看我是如何把我的一块即将变砖的手机拯救回来的。

@@ -3,6 +3,7 @@ title: php mail 函数发送邮件
 permalink: php-mail-function
 date: 2017-03-24 22:15:27
 tags: php
+copyright: true
 ---
 
 >当然你可以通过php ,在自己的站点制作一个反馈表单.

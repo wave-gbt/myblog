@@ -3,6 +3,8 @@ title: Linux 进程管理
 permalink: linux-process-manage
 date: 2017-11-01 23:08:48
 tags: linux
+copyright: true
+password:
 ---
 
 ### 一、 进程管理

@@ -3,6 +3,7 @@ title: Tomcat 80端口被占用的解决办法
 permalink: tomcat-80-port-occupy
 date: 2017-01-29 01:10:18
 tags: tomcat
+copyright: true
 ---
  
 > 在企业版Eclipse中，在已经启动了Tomcat服务器后，准备运行页面或Servlet时，有时会出现这样的关于Tomcat服务器端口占用的问题：

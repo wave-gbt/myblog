@@ -3,6 +3,7 @@ title: MySQL 优化
 permalink: mysql-optimize
 date: 2017-09-13 22:49:37
 tags: mysql
+copyright: true
 ---
 
 下面说的优化基于 MySQL 5.6，理论上 5.5 之后的都算试用，具体还是要看官网

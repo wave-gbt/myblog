@@ -3,6 +3,7 @@ title: Eclipse Maven Spring SpringMVC Mybatis 整合
 permalink: eclipse-maven-spring-springmvc-mybatis-example
 date: 2017-06-07 21:20:21
 tags: Java
+copyright: true
 ---
 
 看慕课网【[Java高并发秒杀API](http://www.imooc.com/index/search?words=%E7%A7%92%E6%9D%80)】的系列课程时很受益。所以想着仿着来使用：Mavan-Spring-SpringMVC-Mybatis 的架构。本示例是在：Ubuntu15 上实现的；Windows 上安装 Maven 将不太相同。

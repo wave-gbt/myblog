@@ -3,6 +3,7 @@ title: ubuntu安装navicat及常见问题解决
 permalink: ubuntu-install-navicat
 date: 2017-03-24 22:07:43
 tags: linux
+copyright: true
 ---
 
 > 如果系统中没有安装wine组件则执行./start_navicat命令则系统毫无反应，没有错误日志等，因此需要安装wine和修改脚本...

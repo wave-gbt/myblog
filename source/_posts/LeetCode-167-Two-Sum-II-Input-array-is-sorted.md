@@ -3,6 +3,7 @@ title: LeetCode-167. Two Sum II - Input array is sorted
 permalink: leetcode-167-two-sum-II
 date: 2017-09-12 21:10:31
 tags: LeetCode
+copyright: true
 ---
 
 Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.

@@ -3,6 +3,7 @@ title: 给网站添加保存到移动设备主屏的 icon
 permalink: add-website-icons-to-the-home-screen
 date: 2017-06-07 21:11:11
 tags: front-end
+copyright: true
 ---
 
 By adding an iOS icon, anyone who decides to save your webpage to the home screen of their iPhone, iPad, or Android will see a nice app-like icon rather than an image of your page.

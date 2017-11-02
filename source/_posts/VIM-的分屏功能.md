@@ -3,6 +3,7 @@ title: VIM 的分屏功能
 permalink: vim-split-screen
 date: 2017-07-27 15:19:05
 tags: vim
+copyright: true
 ---
 　　  整理并收集了一些`Vim`相关使用教程，人类史上最好的文本编辑器Vim，只有用过才知道。
 <!-- more -->

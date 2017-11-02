@@ -3,6 +3,7 @@ title: 'LeetCode-50. Pow(x,n)'
 permalink: leetcode-50-pow-x-n
 date: 2017-08-21 22:21:22
 tags: LeetCode
+copyright: true
 ---
 
 Implement pow(x, n).

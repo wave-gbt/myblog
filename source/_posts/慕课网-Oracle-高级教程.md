@@ -3,6 +3,7 @@ title: 慕课网 Oracle 高级教程
 permalink: imooc-oracle-course
 date: 2017-07-31 17:15:51
 tags: Oracle
+copyright: true
 ---
 
 　　高级查询在数据库的开发过程中应用广泛，本教程通过大量的案例和老师的详细讲解，从分组查询、多表查询和子查询三个方面介绍Oracle的高级查询，也介绍了一些查询的应用场景。

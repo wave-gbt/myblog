@@ -3,6 +3,7 @@ title: Linux 目录树
 permalink: linux-directory-tree
 date: 2017-05-06 20:58:33
 tags: linux
+copyright: true
 ---
 
 >　　linux有那么多目录，总是让新手摸不清头脑，其实，等你用了一段linux后，再去看一下它的文件组织方式，也没有第一眼看到的那么复杂。而且，各个linux发行版本都遵循相同的标准，所以，就算了解它的各个文件如何组织是一次痛苦的重生，那也是只需要痛苦一次的，这是值得的。

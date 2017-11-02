@@ -3,6 +3,7 @@ title: 浅谈 MySQL 分页
 permalink: analysis-mysql-limit
 date: 2017-07-06 20:41:48
 tags: mysql
+copyright: true
 ---
 
 为什么想去说一下这个问题，一言以蔽之，就是越往后分页，LIMIT语句的偏移量就会越大，速度也会明显变慢。

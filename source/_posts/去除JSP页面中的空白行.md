@@ -3,6 +3,7 @@ title: 去除JSP页面中的空白行
 permalink: remove-jsp-page-blank
 date: 2017-01-29 01:22:28
 tags: jsp
+copyright: true
 ---
 
 > 由于JSP 页面里面往往会嵌套一些标签控制语句进行判断或者迭代，用Ctrl+u 查看源码时会看到代码很凌乱，会出现很多空白，所以下面是我遇到这种情况用到的方法

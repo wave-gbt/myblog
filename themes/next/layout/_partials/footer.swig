@@ -3,7 +3,7 @@
 #}&copy; {% if theme.footer.since and theme.footer.since != current %}{{ theme.footer.since }} &mdash; {% endif %}{#
 #}<span itemprop="copyrightYear">{{ current }}</span>
   <span class="with-love">
-    <i class="fa fa-{{ theme.footer.icon }}"></i>
+    <i class="fa fa-heart" aria-hidden="true"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
 
@@ -20,7 +20,7 @@
   #}</span>
   {% endif %}
 </div>
-
+<!--
 {% if theme.footer.powered %}
   <div class="powered-by">{#
   #}{{ __('footer.powered', '<a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a>') }}{#
@@ -39,6 +39,7 @@
   #}</a>{% if theme.footer.theme.version %} v{{ theme.version }}{% endif %}{#
 #}</div>
 {% endif %}
+-->
 
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#

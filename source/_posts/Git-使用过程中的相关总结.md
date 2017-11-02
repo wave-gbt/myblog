@@ -3,6 +3,7 @@ title: Git 使用过程中的相关总结
 permalink: git-about-use
 date: 2017-02-26 16:10:28
 tags: git
+copyright: true
 ---
 > Git是目前世界上最先进的分布式版本控制系统，尤其是它极其强大的分支管理，以下是我在开发中的一些总结，会不断补充。
 <!-- more -->

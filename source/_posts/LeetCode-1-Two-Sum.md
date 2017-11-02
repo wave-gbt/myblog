@@ -3,6 +3,7 @@ title: LeetCode-1. Two Sum
 permalink: leetcode-1-two-sum
 date: 2017-09-07 21:09:51
 tags: LeetCode
+copyright: true
 ---
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.

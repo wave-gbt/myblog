@@ -3,6 +3,7 @@ title: 一些常用的css相关总结
 permalink: some-css-summary
 date: 2017-02-26 15:47:25
 tags: front-end
+copyright: true
 ---
 
 > 在日常开发中，常用到的一些css 技巧总结，会不断补充。

@@ -3,6 +3,7 @@ title: Linux 相关总结
 permalink: linux-summary
 date: 2017-02-06 22:56:07
 tags: linux
+copyright: true
 ---
 
 > 一些Linux常用命令相关总结，会不断补充。

@@ -3,6 +3,7 @@ title: '说说 Java 集合类:HashMap 是如何设计的? 是如何解决什么�
 permalink: java-hashmap
 date: 2017-03-13 21:55:21
 tags: Java
+copyright: true
 ---
 
 > 说说 Java 集合类:HashMap 是如何设计的? 是如何解决什么冲突的?

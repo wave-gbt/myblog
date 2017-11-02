@@ -3,6 +3,7 @@ title: Nginx 初探
 permalink: nginx-learn
 date: 2017-08-29 22:08:40
 tags: Nginx
+copyright: true
 ---
 
 分享一篇关于Nginx介绍的好文。
