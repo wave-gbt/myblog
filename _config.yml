@@ -5,7 +5,7 @@
 # Site
 title: wave
 subtitle: 
-description: Embrace change
+description: Embrace Change
 author: Botao Gou
 language: zh-Hans
 timezone:
@@ -17,6 +17,7 @@ url: http://imbotao.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
 
 # Directory
 source_dir: source
@@ -84,7 +85,7 @@ leancloud_visitors:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: hexo-theme-next
 # duoshuo_shortname: wave-gbt
 # duoshuo_share: true
 # Deployment
