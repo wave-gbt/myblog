@@ -21,5 +21,5 @@ var jiathis_config={
   hideMore:false
 }
 </script>
-<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid={{ theme.jiathis.uid }}" charset="utf-8"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=2144461" charset="utf-8"></script>
 <!-- JiaThis Button END -->
