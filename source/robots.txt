@@ -10,5 +10,5 @@ Disallow: /vendors/
 Disallow: /fancybox/
 Disallow: /search.xml
 
-Sitemap: https://imbotao.top/sitemap.xml
-Sitemap: https://imbotao.top/baidusitemap.xml
+Sitemap: http://imbotao.top/sitemap.xml
+Sitemap: http://imbotao.top/baidusitemap.xml
