@@ -120,9 +120,9 @@ scheme: Gemini
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/wave-gbt || github
-  E-Mail: mailto:botaogou@gmail.com || envelope
+  LeetCode: https://leetcode.com/wave_t || code
   WeiBo: https://weibo.com/wave628 || weibo
-  #Twitter: https://twitter.com/yourname || twitter
+  E-Mail: mailto:botaogou@gmail.com || envelope
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
