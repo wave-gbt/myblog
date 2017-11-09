@@ -268,5 +268,4 @@ nohup  命令  &
 2. 修改/etc/crontab配置文件（必须指定用户）
 
 > Reference:
->
 >  [IMOOC-Linux系统管理](http://www.imooc.com/learn/583)
