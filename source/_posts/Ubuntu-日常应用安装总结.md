@@ -68,6 +68,9 @@ sudo aptitude install git
 sudo aptitude install mysql-server
 ```
 #### 八. java
+
+[jdk download](http://www.oracle.com/technetwork/java/javase/archive-139210.html)
+
 ```
 sudo add-apt-repository ppa:webupd8team/java    
 sudo apt-get update    
