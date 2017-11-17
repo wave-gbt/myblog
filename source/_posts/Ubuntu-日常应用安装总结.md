@@ -93,3 +93,12 @@ sudo apt-get update
 sudo apt-get install atom  
 ```
 
+#### 安装 IDEA
+
+- [下载地址](https://www.jetbrains.com/idea/download/#section=linux)
+- 这里我选择 `Ultimate` `without jdk` 版下载
+- 下载完成，解压到 `/opt/`  
+```
+sudo tar -zxvf ideaIU-20* -C /opt
+```
+- 然后进入它的 `bin` 目录，执行 `./idea.sh` 启动
