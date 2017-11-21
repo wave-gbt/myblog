@@ -11,6 +11,13 @@ copyright: true
 
 [![asciicast](http://asciinema.org/a/123670.png?v=2)](http://asciinema.org/a/123670)
 ### 安装(Install)
+
+#### ubuntu 安装 pip
+```
+sudo apt-get install python-pip python-dev build-essential 
+sudo pip install --upgrade pip 
+```
+#### 安装 dict
 ```bash
 sudo pip install dict-cli
 ```
