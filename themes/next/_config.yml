@@ -17,7 +17,7 @@ override: false
 # And if you want to place your icons in `hexo-site/source/` root directory, you must remove `/images` prefix from pathes.
 
 # For example, you put your favicons into `hexo-site/source/images` directory.
-# Then need to rename & redefine they on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
+# Then need to rename & redefine they on any other names, otherwise icons from NeFxt will rewrite your custom icons in Hexo.
 favicon:
   small: /images/ttt.ico
   medium: /images/ttt.ico
