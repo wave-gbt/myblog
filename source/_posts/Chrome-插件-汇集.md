@@ -11,6 +11,9 @@ top:
 这里收集一些很好用的chrome插件，会不断补充，欢迎大家补充。
 <!-- more -->
 
+## [Chrome 标签页美化 infinity-pro](https://github.com/wave-gbt/Chrome-Extensions/blob/master/infinity-pro.crx)
+Chrome 新标签页应用,重绘了几百个图标,支持自定义搜索,集成天气,带有备忘与 Todo,还可以每日更换壁纸
+
 ## 开发
 
 ### [DHC REST Client](https://chrome.google.com/webstore/detail/dhc-rest-client/aejoelaoggembcahagimdiliamlcdmfm?hl=en-US)
