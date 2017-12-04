@@ -122,12 +122,15 @@ top:
     
     - 字段级别查询：针对结构化数据，如数字、日期等
     关键词：`query`,`term`,`range`
+
 2. Filter context  
 　　在查询过程中，只判断该文档是否满足条件，只有 Yes 和 No.
+
 ### 复合条件查询
 　　以一定逻辑组合自条件查询
 常用查询
  - 固定分数查询
+
  ```json
 {
   "query":{
@@ -164,10 +167,10 @@ top:
   }
 }
 ``` 
-## Spring Boot 集成 Es
-> [spring-boot-elasticsearch](https://github.com/rstyro/spring-boot/tree/master/springboot-elasticsearch)
 
-包含增删改查以及复合查询的实例。
+## Spring Boot 集成 Es
+> [spring-boot-elasticsearch](https://github.com/rstyro/spring-boot/tree/master/springboot-elasticsearch) 包含增删改查以及复合查询的实例。
+
 
 > Reference: 
 > - [慕课网－ElasticSearch入门](https://www.imooc.com/comment/889)
