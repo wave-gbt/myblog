@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.4.1"
+    "version": "3.4.4"
   },
   "dependencies": {
     "gulp": "^3.9.1",
@@ -11,7 +11,7 @@
     "gulp-htmlmin": "^3.0.0",
     "gulp-minify-css": "^1.2.4",
     "gulp-uglify": "^3.0.0",
-    "hexo": "^3.4.0",
+    "hexo": "^3.4.4",
     "hexo-algolia": "^1.2.3",
     "hexo-deployer-git": "^0.2.0",
     "hexo-generator-archive": "^0.1.4",
