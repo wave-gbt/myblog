@@ -89,6 +89,7 @@ menu:
   tags: /tags/ || tags
   #categories: /categories/ || th
   archives: /archives/ || archive
+  书单: /books/ || book
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -135,7 +136,7 @@ social_icons:
   icons_only: true
   transition: false
 
-  
+
 # Blog rolls
 links_icon: link
 links_title: 推荐阅读
@@ -407,7 +408,7 @@ gitment:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare: 
+#baidushare:
 #  type: button
 
 #sharesdk: true
@@ -592,10 +593,10 @@ algolia_search:
     hits_empty: "We didn't find any results for the search: ${query}"
     hits_stats: "${hits} results found in ${time} ms"
 
-search: 
+search:
     path: search.xml
     field: post
-    
+
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
