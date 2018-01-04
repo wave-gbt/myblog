@@ -8,7 +8,8 @@
 
     {% if page.comments %}
       <!-- UY BEGIN -->
-      <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid={{uid}}"></script>
+      <div id="uyan_frame"></div>
+      <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2148598"></script>
       <!-- UY END -->
     {% endif %}
   {% endif %}
