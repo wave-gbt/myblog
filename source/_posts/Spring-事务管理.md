@@ -93,6 +93,5 @@ Spring将事务管理分成了两类:
 		* 基于注解方式.(经常使用)
 			* 配置简单,需要在业务层上添加一个@Transactional的注解.
 ```
-
-
+[案例代码](https://github.com/wave-gbt/spring-transaction-demo)
 
