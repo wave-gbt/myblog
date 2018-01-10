@@ -8,4 +8,15 @@ password:
 top:
 ---
 
+## step1
+在 IDEA 上点击 `Edit Configuration`
+<!-- more -->
+![Edit](/img/aaaaa.png)
 
+## step2
+打开配置后，将默认的 `Single instance only` (单实例)的钩去掉
+![cancel](/img/bbbbbb.png)
+
+## step3
+通过修改 application 文件的**server.port** 的端口，启动。
+多个实例，需要多个端口，分别启动。
