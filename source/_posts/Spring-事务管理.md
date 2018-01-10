@@ -1,7 +1,7 @@
 ---
 title: Spring 事务管理
 date: 2018-01-08 10:01:51
-tags: Spring
+tags: [Spring,Java]
 permalink: spring-transaction
 copyright: true
 password:

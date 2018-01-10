@@ -2,7 +2,7 @@
 title: Eclipse Maven Spring SpringMVC Mybatis 整合
 permalink: eclipse-maven-spring-springmvc-mybatis-example
 date: 2017-06-07 21:20:21
-tags: Java
+tags: [Java,Spring]
 copyright: true
 ---
 
