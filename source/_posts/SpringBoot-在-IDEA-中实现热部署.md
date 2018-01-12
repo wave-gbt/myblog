@@ -1,5 +1,5 @@
 ---
-title: SpringBoot 在 IDEA 中 实现热部署
+title: SpringBoot 在 IDEA 中实现热部署
 date: 2018-01-12 16:36:02
 tags: [SpringBoot,IDEA]
 permalink: SpringBoot-hot-deployment-idea
@@ -11,7 +11,6 @@ top:
 前阵子鼓捣了半天 JRebel ，打算借助 JRebel 热部署 SpringBoot 项目,提高开发测试效率,还是没搞定,后发现可以修改 IDE 启动命令实现热部署。
 <!-- more -->
 
-## 修改IDE启动命令
 ### 下载 Springloaded 的 Jar 包
 [下载位置](http://mvnrepository.com/artifact/org.springframework/springloaded/1.2.6.RELEASE)
 放到本地磁盘的某个目录下
