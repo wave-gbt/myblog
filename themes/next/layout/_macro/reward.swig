@@ -8,7 +8,6 @@
     {% if theme.wechatpay %}
       <div id="wechat" style="display: inline-block">
         <img id="wechat_qr" src="{{ theme.wechatpay }}" alt="{{ theme.author }} {{ __('reward.wechatpay') }}"/>
-        <p>{{ __('reward.wechatpay') }}</p>
       </div>
     {% endif %}
 
