@@ -329,24 +329,24 @@
 		{% include 'passage-end-tag.swig' %}
 	  {% endif %}
 	</div>
-	
-	<div>
-      {% if not is_index %}
-        {% include 'my-copyright.swig' %}
-      {% endif %}
-	</div>
-	
-    {% if theme.wechat_subscriber.enabled and not is_index %}
-      <div>
-        {% include 'wechat-subscriber.swig' %}
-      </div>
-    {% endif %}
 
     {% if (theme.alipay or theme.wechatpay or theme.bitcoin) and not is_index %}
       <div>
         {% include 'reward.swig' %}
       </div>
     {% endif %}
+
+    {% if theme.wechat_subscriber.enabled and not is_index %}
+      <div>
+        {% include 'wechat-subscriber.swig' %}
+      </div>
+    {% endif %}
+
+    <div>
+        {% if not is_index %}
+          {% include 'my-copyright.swig' %}
+        {% endif %}
+    </div>
 
     {% if theme.post_copyright.enable and not is_index %}
       <div>
