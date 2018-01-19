@@ -136,6 +136,8 @@ Mapreduce原理：分而治之，一个大任务分成多个子任务（map）�
 　　在进入Reduce阶段之前，MapReduce框架会对数据按照Key值排序，使得具有相同Key的数据彼此相邻。如果用户指定了”合并操作”(Combiner)，框架会调用Combiner，将具有相同Key的数据进行聚合。Combiner的逻辑可以由用户自定义实现。这部分的处理通常也叫做”洗牌”(Shuffle)。
 　　接下来进入Reduce阶段。相同的Key的数据会到达同一个Reduce Worker。同一个Reduce Worker会接收来自多个Map Worker的数据。每个Reduce Worker会对Key相同的多个数据进行Reduce操作。最后，一个Key的多条数据经过Reduce的作用后，将变成了一个值。
 
+... 未完待续
+
 ### MapReduce 的运行流程
 
 ## 开发 Hadoop 应用程序

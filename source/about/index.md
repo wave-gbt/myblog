@@ -2,7 +2,9 @@
 title: 
 date: 2017-01-31 07:16:01
 ---
-<link rel="stylesheet" href="../timeline/css/home.css">
+
+<link rel="stylesheet" type="text/css" href="../timeline/css/main.css" />
+<link rel="stylesheet" type="text/css" href="../timeline/css/style.css">
 
 ### 关于我
 　　尽管我们拥有意识却和动物一样习惯逃避痛苦。然而当我们正直地思考时，就必须承受因果纠缠的压力，正直永远都不会是不痛不痒的。
@@ -14,4 +16,8 @@ date: 2017-01-31 07:16:01
 
 ### 时间轴
 
-<div class="timezone"><div class="time"><span>2017-11-03</span><div><p><a target="_blank" href="http://imbotao.top/2017/11/03/talk-nonsense/">毕业北漂四个月感受</a></p></div></div><div class="timeLeft" style="top: 70px;"><span>2017-08-01</span><div><p>入职亚信中国JAVA开发</p></div></div><div class="time" style="top: 140px;"><span>2017-06-25</span><div><p><a target="_blank" href="http://imbotao.top/2017/06/25/graduated-and-quit/">我毕业了也离职了</a></p></div></div><div class="timeLeft" style="top: 210px;"><span>2017-03-08</span><div><p>准备回校论文答辩&&<a target="_blank" href="http://imbotao.top/2017/03/08/safe-and-sound/">实习总结</a></p></div></div><div class="time" style="top: 280px;"><span>2016-12-24</span><div><p>搭建Hexo博客,整理知识,记录成长</p></div></div><div class="timeLeft" style="top: 350px;"><span>2016-07-15</span><div><p>入职北京极宇舟天开始实习生涯</p></div></div></div>
+<div id="main"><section class="cd-horizontal-timeline"><div class="timeline"><div class="events-wrapper"><div class="events"><ol><li><a href="#0" data-date="05/07/2016" class="selected">7-5<div class="yearr">2016</div></a></li><li><a href="#0" data-date="24/12/2016">12-24<div class="yearr">2016</div></a></li><li><a href="#0" data-date="08/03/2017">3-8<div class="yearr">2017</div></a></li><li><a href="#0" data-date="25/06/2017">6-25<div class="yearr">2017</div></a></li><li><a href="#0" data-date="01/08/2017">8-1<div class="yearr">2017</div></a></li><li><a href="#0" data-date="03/11/2017">11-3<div class="yearr">2017</div></a></li></ol><span class="filling-line" aria-hidden="true"></span></div></div><ul class="cd-timeline-navigation"><li><a href="#0" class="prev inactive">Prev</a></li><li><a href="#0" class="next">Next</a></li></ul></div><div class="events-content"><ol><li class="selected" data-date="05/07/2016"><p>入职北京极宇舟天开始实习生涯</p></li><li data-date="24/12/2016"><p>搭建Hexo博客,整理知识,记录成长</p></li><li data-date="08/03/2017"><p><a href="http://imbotao.top/2017/03/08/safe-and-sound/">准备回校论文答辩&&实习总结</a></p></li><li data-date="25/06/2017"><p><a href="http://imbotao.top/2017/06/25/graduated-and-quit/">我毕业了也离职了</a></p></li><li data-date="01/08/2017"><p>入职亚信中国开发JAVA</p></li><li data-date="03/11/2017"><p><a href="http://imbotao.top/2017/11/03/talk-nonsense/">当然我在扯淡(北京开始清退，换气，撤招牌)</a></p></li></ol></div></section></div>
+
+<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="../timeline/js/jquery.mobile.custom.min.js"></script>
+<script src="../timeline/js/main.js"></script>
