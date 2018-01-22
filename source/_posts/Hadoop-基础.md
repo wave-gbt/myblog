@@ -136,8 +136,22 @@ Mapreduce原理：分而治之，一个大任务分成多个子任务（map）�
 　　在进入Reduce阶段之前，MapReduce框架会对数据按照Key值排序，使得具有相同Key的数据彼此相邻。如果用户指定了”合并操作”(Combiner)，框架会调用Combiner，将具有相同Key的数据进行聚合。Combiner的逻辑可以由用户自定义实现。这部分的处理通常也叫做”洗牌”(Shuffle)。
 　　接下来进入Reduce阶段。相同的Key的数据会到达同一个Reduce Worker。同一个Reduce Worker会接收来自多个Map Worker的数据。每个Reduce Worker会对Key相同的多个数据进行Reduce操作。最后，一个Key的多条数据经过Reduce的作用后，将变成了一个值。
 
-... 未完待续
-
 ### MapReduce 的运行流程
+**Job & Task**：
+一个 `Job`（任务、作业） 被切分为多个 `Task`，Task 又分为 `MapTask` 和 `ReduceTask`
 
-## 开发 Hadoop 应用程序
+#### mapReduce 作业执行过程
+![@mapReduce](/img/mp.jpg)
+
+**JobTracker** ：将一个Job拆分成多个Map和Reduce任务；分配Map和Reduce任务
+- 作业调度
+- 分配任务、监控任务
+- 监控 TaskTracker 的状态
+
+**TaskTracker** ：Map任务分发给下面的TaskTracker做实际 的任务；TaskTracker与DataNode保持对应关系
+- 执行任务
+- 向 `JobTracker` 汇报任务状态
+
+#### mapReduce 容错机制
+1. 重复测试：如果一个TaskTracker节点在测试过程中失败，mapreduce会重新执行该任务，如果执行四次后仍失败，就停止执行该任务
+2. 推测测试：如果一个taskTracker执行得很慢，mapReduce就会重新开启一个taskTracker节点去计算相同的该任务，原来那个继续执行，重新开启的taskTracker如果先执行完，则mapReduce取到该结果后就会停止原来那个很慢的taskTracker节点
