@@ -1,7 +1,7 @@
 ---
 title: Python 遇见数据采集
 date: 2018-01-04 14:21:45
-tags: Python
+tags: python
 permalink: python-data-collection
 copyright:
 password:

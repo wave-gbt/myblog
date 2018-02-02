@@ -1,7 +1,7 @@
 ---
 title: SpringBoot 整合JdbcTemplate 访问 MySQL 数据库
 date: 2018-01-11 15:17:26
-tags: [Java,SpringBoot]
+tags: [SpringBoot]
 permalink: springboot-JdbcTemplate-mysql
 copyright: true
 password:

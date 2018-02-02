@@ -1,7 +1,7 @@
 ---
 title: 构建第一个SpringBoot工程
 date: 2018-01-10 14:47:57
-tags: [Java,SpringBoot]
+tags: [SpringBoot]
 permalink: build-first-springBoot-project
 copyright: true
 password:

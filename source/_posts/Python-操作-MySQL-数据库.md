@@ -1,7 +1,7 @@
 ---
 title: Python 操作 MySQL 数据库
 date: 2018-01-04 09:54:29
-tags: Python
+tags: python
 permalink: python-operations-MySQL-Database
 copyright: true
 password:
