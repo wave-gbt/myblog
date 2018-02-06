@@ -29,6 +29,14 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+#shizuku 妹子
+#wanko 狗子
+
+live2d:
+  model: wanko
+  bottom: -30
+  mobileShow: false
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post

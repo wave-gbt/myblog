@@ -23,6 +23,7 @@
     "hexo-generator-searchdb": "^1.0.3",
     "hexo-generator-sitemap": "^1.2.0",
     "hexo-generator-tag": "^0.2.0",
+    "hexo-helper-live2d": "^2.1.5",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-marked": "^0.2.11",
     "hexo-renderer-stylus": "^0.3.1",

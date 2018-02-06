@@ -90,5 +90,6 @@
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
 <script type="text/javascript" src="/js/src/love.js"></script>
+{{ live2d() }}
 </body>
 </html>
