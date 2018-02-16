@@ -168,6 +168,9 @@ toc:
 #creative_commons: by-nc-sa
 #creative_commons:
 
+# Fireworks
+fireworks: false
+
 sidebar:
   # Sidebar Position, available value: left | right (only for Pisces | Gemini).
   position: left
