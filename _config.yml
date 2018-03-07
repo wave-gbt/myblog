@@ -117,6 +117,6 @@ theme: next
 deploy:
   type: git
   repo:
-    github: https://github.com/wave-gbt/wave-gbt.github.io.git
+    github: https://wave-gbt:inn110_bj.wave@github.com/wave-gbt/wave-gbt.github.io.git
     coding: https://git.coding.net/wave-gbt/wave-gbt.git
   branch: master
