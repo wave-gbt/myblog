@@ -1,76 +1,38 @@
-var gulp = require('gulp');
-var babel = require("gulp-babel");
-var minifycss = require('gulp-clean-css');
-var uglify = require('gulp-uglify');
-var htmlmin = require('gulp-htmlmin');
-var htmlclean = require('gulp-htmlclean');
-var imagemin = require('gulp-imagemin');
-var del = require('del');
-var runSequence = require('run-sequence');
-var Hexo = require('hexo');
-gulp.task('clean', function() {
-    return del(['public/**/*']);
-});
-// generate html with 'hexo generate'
-var hexo = new Hexo(process.cwd(), {});
-gulp.task('generate', function(cb) {
-    hexo.init().then(function() {
-        return hexo.call('generate', {
-            watch: false
-        });
-    }).then(function() {
-        return hexo.exit();
-    }).then(function() {
-        return cb()
-    }).catch(function(err) {
-        console.log(err);
-        hexo.exit(err);
-        return cb(err);
-    })
-})
-gulp.task('minify-css', function() {
-    return gulp.src(['./public/**/*.css','public/**/*.min.css'])
-        .pipe(minifycss({
-            compatibility: 'ie8'
-        }))
-        .pipe(gulp.dest('./public'));
-});
-gulp.task('minify-html', function() {
-    return gulp.src('./public/**/*.html')
-        .pipe(htmlclean())
-        .pipe(htmlmin({
-            removeComments: true,
-            minifyJS: true,
-            minifyCSS: true,
-            minifyURLs: true,
-        }))
-        .pipe(gulp.dest('./public'))
-});
-gulp.task('minify-js', function() {
-    return gulp.src(['./public/**/*.js','!public/**/*.min.js'])
-        .pipe(babel({presets: ['es2015']}))
+var gulp = require('gulp'),
+    uglify = require('gulp-uglify'),
+    rename = require('gulp-rename'),
+    cssmin = require('gulp-minify-css'),
+    imagemin = require('gulp-imagemin');
+//JS压缩
+gulp.task('uglify', function() {
+    return gulp.src('././public/js/*.js')
         .pipe(uglify())
-        .pipe(gulp.dest('./public'));
+        .pipe(gulp.dest('././public/js/'));
 });
-gulp.task('minify-img', function() {
-    return gulp.src('./public/images/**/*.*')
-        .pipe(imagemin())
-        .pipe(gulp.dest('./public/images'))
-})
-gulp.task('minify-img-aggressive', function() {
-    return gulp.src('./public/images/**/*.*')
-        .pipe(imagemin(
-            [imagemin.gifsicle({'optimizationLevel': 3}),
-                imagemin.jpegtran({'progressive': true}),
-                imagemin.optipng({'optimizationLevel': 7}),
-                imagemin.svgo()],
-            {'verbose': true}))
-        .pipe(gulp.dest('./public/images'))
-})
-gulp.task('compress', function(cb) {
-    runSequence(['minify-html', 'minify-css', 'minify-img'], cb);
+//public-fancybox-js压缩
+gulp.task('fancybox:js', function() {
+    return gulp.src('././public/fancybox/jquery.fancybox.js')
+        .pipe(uglify())
+        .pipe(gulp.dest('././public/fancybox/'));
 });
-gulp.task('build', function(cb) {
-    runSequence('clean', 'generate', 'compress', cb)
+//public-fancybox-css压缩
+gulp.task('fancybox:css', function() {
+    return gulp.src('././public/fancybox/jquery.fancybox.css')
+        .pipe(cssmin())
+        .pipe(gulp.dest('././public/fancybox/'));
 });
-gulp.task('default', ['build'])
+//CSS压缩
+gulp.task('cssmin', function() {
+    return gulp.src('././public/css/style.css')
+        .pipe(cssmin())
+        .pipe(gulp.dest('././public/css/'));
+});
+//图片压缩
+gulp.task('images', function() {
+    gulp.src('././public/img/*.*')
+        .pipe(imagemin({
+            progressive: false
+        }))
+        .pipe(gulp.dest('././public/img/'));
+});
+gulp.task('build', ['uglify', 'cssmin', 'images', 'fancybox:js', 'fancybox:css']);
