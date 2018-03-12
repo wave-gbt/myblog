@@ -96,7 +96,12 @@ algolia:
     - path
     - content:strip
 
-
+# hexo-tag-cloud
+#tag_cloud:
+#    textFont: Trebuchet MS, Helvetica
+#    textColour: #333
+#    textHeight: 20
+#    outlineColour: #E2E1D1
 # add post views
 #leancloud_visitors:
 #  enable: true
