@@ -1,7 +1,7 @@
 ---
 title: Java 高并发编程「一」
 date: 2018-02-02 15:06:15
-tags: [Java,并发编程]
+tags: [并发编程]
 permalink: java-concurrent-programming
 copyright: true
 password:
