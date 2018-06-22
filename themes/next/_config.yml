@@ -144,9 +144,7 @@ links_layout: block
 #links_layout: inline
 links:
   Yifans_Z: http://zyf.im
-  梁桂钊的博客: http://blog.720ui.com
-  纯洁的微笑: http://www.ityouknow.com
-  夏崇-豆瓣作者: https://read.douban.com/author/63711069
+  阿凋-豆瓣作者: https://read.douban.com/author/63711069
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -237,7 +235,7 @@ post_wordcount:
 
 # Wechat Subscriber
 wechat_subscriber:
-  enabled: true
+  enabled: false
   qcode: /images/qqqqqeri.jpg
   description: 欢迎关注我的微信公众号，同步分享博客内容
 
