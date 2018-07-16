@@ -154,43 +154,68 @@
     </style>
 </head>
 <body>
-<div class="timezone">
-    <div class="time">
-        <span>2016-07-15</span>
-        <div>
-            <p>入职北京极宇舟天开始实习生涯</p>
+<html>
+<head></head>
+<body>
+<div id="main">
+  <section class="cd-horizontal-timeline">
+    <div class="timeline">
+      <div class="events-wrapper">
+        <div class="events">
+          <ol>
+            <li><a href="#0" data-date="05/07/2016" class="selected">7-5
+              <div class="yearr">
+                2016
+              </div></a></li>
+            <li><a href="#0" data-date="24/12/2016">12-24
+              <div class="yearr">
+                2016
+              </div></a></li>
+            <li><a href="#0" data-date="08/03/2017">3-8
+              <div class="yearr">
+                2017
+              </div></a></li>
+            <li><a href="#0" data-date="25/06/2017">6-25
+              <div class="yearr">
+                2017
+              </div></a></li>
+            <li><a href="#0" data-date="01/08/2017">8-1
+              <div class="yearr">
+                2017
+              </div></a></li>
+            <li><a href="#0" data-date="03/11/2017">11-3
+              <div class="yearr">
+                2017
+              </div></a>
+            </li>
+            <li><a href="#0" data-date="03/06/2018">06-3
+              <div class="yearr">
+                2018
+              </div></a>
+            </li>
+          </ol>
+          <span class="filling-line" aria-hidden="true"></span>
         </div>
+      </div>
+      <ul class="cd-timeline-navigation">
+        <li><a href="#0" class="prev inactive">Prev</a></li>
+        <li><a href="#0" class="next">Next</a></li>
+      </ul>
     </div>
-    <div class="timeLeft" style="top: 70px;">
-        <span>2016-12-24</span>
-        <div>
-            <p>搭建Hexo博客,整理知识,记录成长</p>
-        </div>
+    <div class="events-content">
+      <ol>
+        <li class="selected" data-date="05/07/2016"><p>入职北京极宇舟天开始实习生涯</p></li>
+        <li data-date="24/12/2016"><p>搭建Hexo博客,整理知识,记录成长</p></li>
+        <li data-date="08/03/2017"><p><a href="http://imbotao.top/safe-and-sound.html">准备回校论文答辩&amp;&amp;实习总结</a></p></li>
+        <li data-date="25/06/2017"><p><a href="http://imbotao.top/graduated-and-quit.html">我毕业了也离职了</a></p></li>
+        <li data-date="01/08/2017"><p>入职亚信中国JAVA开发</p></li>
+        <li data-date="03/11/2017"><p><a href="http://imbotao.top/talk-nonsense.html">当然我在扯淡(北京开始清退，换气，撤招牌)</a></p></li>
+        <li data-date="03/06/2018"><p>憨憨毕业,北漂不再孤单</p></li>
+      </ol>
     </div>
-    <div class="time" style="top: 140px;">
-        <span>2017-03-08</span>
-        <div>
-            <p>准备回校论文答辩&&<a href="http://imbotao.top/2017/03/08/safe-and-sound/">实习总结</a></p>
-        </div>
-    </div>
-    <div class="timeLeft" style="top: 210px;">
-        <span>2017-06-25</span>
-        <div>
-            <p><a href="http://imbotao.top/2017/06/25/graduated-and-quit/">我毕业了也离职了</a></p>
-        </div>
-    </div>
-    <div class="time" style="top: 280px;">
-        <span>2017-08-01</span>
-        <div>
-            <p>入职亚信中国开发JAVA</p>
-        </div>
-    </div>
-    <div class="timeLeft" style="top: 350px;">
-        <span>2017-11-03</span>
-        <div>
-            <p><a href="http://imbotao.top/2017/11/03/talk-nonsense/">毕业北漂四个月感受</a></p>
-        </div>
-    </div>
+  </section>
 </div>
+</body>
+</html>
 </body>
 </html>
