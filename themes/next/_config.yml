@@ -123,7 +123,8 @@ social:
   GitHub: https://github.com/wave-gbt || github
   LeetCode: https://leetcode.com/wave_t || code
   WeiBo: https://weibo.com/wave628 || weibo
-  E-Mail: mailto:goubot@163.com || envelope
+  Twitter: https://twitter.com/botaogou || twitter
+  E-Mail: mailto:botaogou@gmail.com || envelope
   Love: http://imbotao.top/love || heart
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
@@ -134,7 +135,7 @@ social:
 social_icons:
   enable: true
   icons_only: true
-  transition: false
+  transition: true
 
 
 # Blog rolls
@@ -144,6 +145,7 @@ links_layout: block
 #links_layout: inline
 links:
   Yifans_Z: http://zyf.im
+  挡路人: http://dangluren.top
   阿凋-豆瓣作者: https://read.douban.com/author/63711069
 
 # Sidebar Avatar
