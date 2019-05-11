@@ -114,7 +114,7 @@ algolia:
 
 plugins: hexo-generate-feed
 
-theme: next
+theme: hexo-theme-next
 # duoshuo_shortname: wave-gbt
 # duoshuo_share: true
 # Deployment
