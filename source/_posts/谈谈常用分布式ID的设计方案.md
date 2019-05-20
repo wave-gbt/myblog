@@ -1,9 +1,9 @@
 ---
 title: 谈谈常用分布式ID的设计方案
 date: 2019-05-20 14:53:59
-tags: 
-permalink:
-copyright:
+tags: 架构
+permalink: distributed-id-design
+copyright: true
 password:
 top:
 ---
