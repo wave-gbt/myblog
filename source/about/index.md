@@ -17,11 +17,11 @@ date: 2017-01-31 07:16:01
 - `2019-05` 入职量化派
 - `2019-01` [2018 年终总结](http://imbotao.top/goodbye-2018.html)
 - `2017-11` [北漂一周年](http://imbotao.top/talk-nonsense.html)
-- `2017-08` 入职亚信中国JAVA开发
+- `2017-08` 入职亚信科技 
 - `2017-06` [我离职了也毕业了](http://imbotao.top/graduated-and-quit.html)
-- `2017-03` [准备回校论文答辩&&实习总结](http://imbotao.top/safe-and-sound.html)
-- `2016-12` 搭建Hexo博客,整理知识,记录成长
-- `2016-07` 入职北京极宇舟天开始实习生涯
+- `2017-03` [准备回校论文答辩-实习总结](http://imbotao.top/safe-and-sound.html)
+- `2016-12` 搭建个人博客,整理知识,记录成长
+- `2016-07` 入职北京极宇舟天 `实习生`  
 
 
 
