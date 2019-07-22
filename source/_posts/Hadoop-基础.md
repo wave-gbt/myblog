@@ -1,7 +1,7 @@
 ---
 title: Hadoop 基础
 date: 2018-01-18 09:57:21
-tags: [hadoop,大数据]
+tags: [hadoop]
 permalink: hadoop-basis
 copyright: true
 password:

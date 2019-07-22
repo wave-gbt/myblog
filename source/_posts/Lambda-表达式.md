@@ -1,7 +1,7 @@
 ---
 title: Lambda 表达式
 date: 2018-04-19 14:58:54
-tags: [Java,Lambda]
+tags: [Java]
 permalink: lambda-expressions
 copyright:
 password:

@@ -1,7 +1,7 @@
 ---
 title: ElasticSearch入门
 date: 2017-12-04 19:19:50
-tags: [大数据,ES]
+tags: [ES]
 permalink: es-introductory-learning
 copyright: true
 password:

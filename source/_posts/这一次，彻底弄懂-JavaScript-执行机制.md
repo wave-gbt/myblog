@@ -1,7 +1,7 @@
 ---
 title: "这一次，彻底弄懂 JavaScript 执行机制"
 date: 2018-01-08 10:44:20
-tags: [front-end,javaScript]
+tags: [front-end]
 permalink: js-execute-process 
 copyright: true
 password:

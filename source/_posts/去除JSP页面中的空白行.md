@@ -2,7 +2,7 @@
 title: 去除JSP页面中的空白行
 permalink: remove-jsp-page-blank
 date: 2017-01-29 01:22:28
-tags: jsp
+tags: front-end
 copyright: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: FreeMarker解析json数据
 date: 2017-11-07 16:22:06
-tags: [json,freemark]
+tags: [front-end]
 permalink: freemark-analysis-json-string
 copyright: true
 password:

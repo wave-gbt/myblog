@@ -1,5 +1,5 @@
 ---
-title: ubuntu安装navicat及常见问题解决
+title: Ubuntu安装navicat及常见问题解决
 permalink: ubuntu-install-navicat
 date: 2017-03-24 22:07:43
 tags: linux

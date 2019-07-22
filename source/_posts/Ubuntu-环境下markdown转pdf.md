@@ -1,5 +1,5 @@
 ---
-title: ubuntu 环境下markdown转pdf
+title: Ubuntu 环境下markdown转pdf
 date: 2017-06-25 00:37:12
 permalink: ubuntu-markdown-to-pdf
 tags: tools

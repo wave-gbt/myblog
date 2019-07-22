@@ -1,7 +1,7 @@
 ---
 title: RocketMQ 初试
 date: 2018-04-17 10:19:18
-tags: [MQ,RocketMQ]
+tags: [MQ]
 permalink: rocketmq-start-learn
 copyright: true
 password:
