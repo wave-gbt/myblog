@@ -8,9 +8,13 @@ date: 2017-01-31 07:16:01
 　　我所理解的学习或是教育，无非是一棵树摇动另一棵树,一个灵魂唤醒另一个灵魂。
 　　感谢开源运动，感谢互联网自由开放的精神，我在其中获益匪浅。
 　　我是`wave`，我在努力成为一名软件工程师。
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
+src="http://n.miaopai.com/media/ZBJb41wuP8j7gb8YJmGmLHAGcV7ILmWW.htm" scrolling="no" border="0" 
+frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
+height: 100%; left: 0; top: 0;"> </iframe></div>
  
 ### 座右铭
-　　我的代码曾运行在几千万用户的机器上，作为一个程序员，还有什么比这更让人满足的呢？如果有，那就是让这个用户数量再扩大 10 倍。
+　　进步远非由变化组成，而是取决于好记性。不能记住过去的人，被判重复过去。
 
 ### 时间轴
 
