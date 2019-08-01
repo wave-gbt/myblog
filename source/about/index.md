@@ -8,7 +8,7 @@ date: 2017-01-31 07:16:01
 　　我所理解的学习或是教育，无非是一棵树摇动另一棵树,一个灵魂唤醒另一个灵魂。
 　　感谢开源运动，感谢互联网自由开放的精神，我在其中获益匪浅。
 　　我是`wave`，我在努力成为一名软件工程师。
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 80%;"><iframe 
 src="http://n.miaopai.com/media/ZBJb41wuP8j7gb8YJmGmLHAGcV7ILmWW.htm" scrolling="no" border="0" 
 frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
 height: 100%; left: 0; top: 0;"> </iframe></div>
