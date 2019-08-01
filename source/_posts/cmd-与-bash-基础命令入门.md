@@ -1,7 +1,7 @@
 ---
 title: cmd 与 bash 基础命令入门
 date: 2018-02-18 11:21:56
-tags: shell
+tags: 沉淀
 permalink: cmd-and-bash
 copyright: true
 password:
