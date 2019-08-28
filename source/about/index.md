@@ -21,7 +21,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
 ### 时间轴
 
 - `2019`
- - `2019-05` 入职量化派
  - `2019-01` [2018 年终总结](http://imbotao.top/goodbye-2018.html)
 - `2017`
  - `2017-11` [北漂一周年](http://imbotao.top/talk-nonsense.html)
