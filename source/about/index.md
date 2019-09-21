@@ -21,10 +21,12 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
 ### 时间轴
 
 - `2019`
+ - `2019-09` 入职科大讯飞
+ - `2019-04` 入职量化派 `2019-08离职`
  - `2019-01` [2018 年终总结](http://imbotao.top/goodbye-2018.html)
 - `2017`
  - `2017-11` [北漂一周年](http://imbotao.top/talk-nonsense.html)
- - `2017-08` 入职亚信科技 
+ - `2017-08` 入职亚信科技 `2019-04离职`
  - `2017-06` [我离职了也毕业了](http://imbotao.top/graduated-and-quit.html)
  - `2017-03` [准备回校论文答辩-实习总结](http://imbotao.top/safe-and-sound.html)
 - `2016`
