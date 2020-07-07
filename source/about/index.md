@@ -9,17 +9,13 @@ date: 2017-01-31 07:16:01
 　　感谢开源运动，感谢互联网自由开放的精神，我在其中获益匪浅。
 　　我是`wave`，我在努力成为一名软件工程师。
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
-src="//n.miaopai.com/media/ZBJb41wuP8j7gb8YJmGmLHAGcV7ILmWW.htm" scrolling="no" border="0" 
-frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
-height: 100%; left: 0; top: 0;"> </iframe></div>
-
  
 ### 座右铭
 　　进步远非由变化组成，而是取决于好记性。不能记住过去的人，被判重复过去。
 
 ### 时间轴
 - `2020`
+ - `2020-05` 终于等到你(铭)
  - `2020-01` 重庆跨年
 - `2019`
  - `2019-09` 入职科大讯飞
