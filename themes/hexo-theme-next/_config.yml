@@ -202,6 +202,7 @@ site_state: true
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
+  Love: http://imbotao.top/love || heart
   GitHub: https://github.com/wave-gbt || github
   LeetCode: https://leetcode-cn.com/u/wave-20 || code
   WeiBo: https://weibo.com/wave628 || weibo

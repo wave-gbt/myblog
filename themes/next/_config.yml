@@ -125,7 +125,7 @@ social:
   WeiBo: https://weibo.com/wave628 || weibo
   Twitter: https://twitter.com/botaogou || twitter
   E-Mail: mailto:botaogou@gmail.com || envelope
-#  Love: http://imbotao.top/love || heart
+  Love: localhost:4000/love || heart
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
@@ -145,8 +145,6 @@ links_layout: block
 #links_layout: inline
 links:
   Yifans_Z: http://zyf.im
-  挡路人: http://dangluren.top
-  阿凋-豆瓣作者: https://read.douban.com/author/63711069
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
